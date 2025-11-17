@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+    "soph_imit_lib",
+    "soph_imit_bin",
+]

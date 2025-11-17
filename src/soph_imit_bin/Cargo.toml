@@ -1,0 +1,7 @@
+[package]
+name = "soph_imit_bin"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+soph_imit_lib = { path = "../soph_imit_lib" }
